@@ -61,7 +61,7 @@ The layout consists of:
 `R1, R2, R3, R4, R5, R6, BB1, BB2, BB3`
 
 **Access Switches:**  
-`SW1, SW2 (sharifi), ESW1, ESW2, ESW6, Switch1, Switch2`
+`SW1, SW2, ESW1, ESW2, ESW6, Switch1, Switch2`
 
 **Frame Relay Switches:**  
 `FRSW1, FRSW2, FRSW3`
